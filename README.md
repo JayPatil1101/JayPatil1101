@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey 👋, I'm Jay!
 
-<!--
-**JayPatil1101/JayPatil1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Jay Patil, an undergraduate student from GHRCEM Pune 🚀 from India. Currently, working as Machine Learning Intern at Paonta Valley LLP. I spent the summer of 2021 as Frontend DeveloperIntern at Wechiitra.com.
+
+Beside's developing stuff, I enjoy Dancing🕺, reading book 📚, and traveling 🏝️🗻.
+
+Talking about Personal Stuffs/Achievements:
+
+- 🔭 I’m currently working on my Startup
+- 🌱 I’m currently learning more advanced topics in the field of Artficial Intelligence
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: Jaypatil.ai1101@gmail.com
+- ⚡ Fun fact: I am National Level Dancer
