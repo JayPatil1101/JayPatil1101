@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">an undergraduate student from GHRCEM Pune 🚀 from India. Currently, working as Machine Learning Intern at @Paonta Valley LLP. I spent the summer of 2021 as Frontend Developer Intern at @Wechiitra.</h3>
+<h3 align="center">an undergraduate student from GHRCEM Pune 🚀 from India. Currently, working as Project Manager at @Botmatic Solution Former Machine Learning Intern at @Paonta Valley LLP.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.qgengroup.com/wp-content/uploads/2020/05/gif-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypatil1101&label=Profile%20views&color=0e75b6&style=flat" alt="jaypatil1101" /> </p>
